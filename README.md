@@ -8,3 +8,4 @@ ahora en la terminal escribimos "npm run dev" para ejecutar el programa
 si todo sale bien deberia salir un mensaje de "serving on port 5000
 si nos sale eso entonces vamos a un navegador web y pondremos en el link "localhost:5000" y listo ya estaria ejecutando el prototipo
 para dejar de ejecutar el programa se va a intellij IDEA y apreta control+c y listo
+
