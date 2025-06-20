@@ -9,7 +9,10 @@ despues en el intelliJ IDEA ponemos git clone y copiamos el link previamente cop
 
 ahora abajo a la izquierda abra 5 opciones en la cual nos servira la 3era opcion que es la terminal
 
-ahora en la terminal escribimos "npm run dev" para ejecutar el programa
+ahora en la terminal escribimos  "npm install" para que se descarguen los archivos necesarios para ejecutar el codigo
+
+despeus de esto se nos creara una carpeta en color naranjo o con el nombre "node_modules" y si es asi entonces escribimos en la terminal "npm run dev"
+
 
 si todo sale bien deberia salir un mensaje de "serving on port 5000
 
